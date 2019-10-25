@@ -1,0 +1,5 @@
+<root>
+    <item name='org.omg.CORBA.UserException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
